@@ -1,7 +1,6 @@
 body {
   background-image:  linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url(./images/backgammon-2488089_1920.jpg);
   background-size: cover;
-  
 }
 
 .container {
@@ -48,4 +47,14 @@ img {
   padding: 10px;
   border-radius: 10px;
   border-color: black;
+}
+
+@media (max-width: 767px){
+  h1 {
+   margin: 10px;
+  font-family: 'Caveat', cursive;
+  text-shadow: 3px 0 black;
+  font-size: 5rem;
+  color: gold;
+  }
 }
