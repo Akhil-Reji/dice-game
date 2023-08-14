@@ -59,12 +59,7 @@ img {
   }
 
   img {
-    width: 40%;
+    width: 30%;
   }
 
-  .dice {
-  text-align: center;
-  display: inline-block;
-  width: 60%;
-}
 }
