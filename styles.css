@@ -61,4 +61,10 @@ img {
   img {
     width: 40%;
   }
+
+  .dice {
+  text-align: center;
+  display: inline-block;
+  width: 60%;
+}
 }
